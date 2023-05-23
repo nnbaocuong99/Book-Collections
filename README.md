@@ -1,6 +1,4 @@
-## Table of contents
-
-###### Hightlight = Recommend
+###### First of all, A compilation of information from numerous sources. I'm gonna to list several books that are especially suggested for beginners. The title of the book you're looking for may be listed in the following table of contents.
 
 <br>
 
@@ -162,7 +160,7 @@
 - tmux 2 - Productive Mouse-Free Development`.epub`
    
 ### 9. Nginx
-- Complete_NGINX_Cookbook`.pdf`
+- [Complete_NGINX_Cookbook`.pdf`](https://github.com/nnbaocuong99/Book-Collections/blob/main/Nginx/Complete_NGINX_Cookbook.pdf)
 - NGINX-Cookbook-2nd-ed-2022`.pdf`
 - NGINX - HTTP Server`.pdf`
 - NGINX - HTTP Server 2nd`.pdf`
@@ -176,49 +174,48 @@
 - Advanced Bash-Scripting Guide`.pdf`
 - Learn Windows PowerShell 3 in a Month of Lunches`.pdf`
 - PowerShell in Depth`.pdf`
-- PowerShell in Practice`.pdf`
+- [PowerShell in Practice`.pdf`](https://github.com/nnbaocuong99/Book-Collections/blob/main/PoweShell%2C%20Bash/PowerShell%20in%20Practice.pdf)
 - PowerShell Succinctly`.pdf`
 - Pro Bash Programming`.pdf`
-- Shell Scripting Recipes`.pdf`
+- [Shell Scripting Recipes`.pdf`](https://github.com/nnbaocuong99/Book-Collections/blob/main/PoweShell%2C%20Bash/Shell%20Scripting%20Recipes.pdf)
 - Windows PowerShell 3.0 First Steps`.pdf`
 - Windows PowerShell Cookbook`.pdf`
-- Windows PowerShell in Action`.pdf`
+- [Windows PowerShell in Action`.pdf`](https://github.com/nnbaocuong99/Book-Collections/blob/main/PoweShell%2C%20Bash/Windows%20PowerShell%20in%20Action.pdf)
 - Windows PowerShell Pocket Reference`.pdf`
      
 ### 11. Restful, Wireshark
 - REST API Design Rulebook`.pdf`
-- RESTFUL Web Services`.pdf`
+- [RESTFUL Web Services`.pdf`](https://github.com/nnbaocuong99/Book-Collections/blob/main/Restful%2C%20Wireshark/REST%20API%20Design%20Rulebook.pdf)
 - Wireshark Essentials`.pdf`
 - Wireshark Network Security`.pdf`
 
 
 ### 12. Others
-- Command Line Kung Fu.epub
-- Containerization with Ansible 2.epub
-- Essential Skills for Hackers - Kevin Cardwell.epub
-- Infrastructure as Code (IAC) Cookbook.epub
-- Build Your Own PaaS with Docker.pdf
-- CoreOS Essentials.pdf
-- CoreOS in Action - Running Applications on Container Linux.pdf
-- Deploying Rails with Docker, Kubernetes and ECS.pdf
-- Designing and Implementing Linux Firewalls and QoS using netfilter, iproute2, NAT and l7-filter.pdf
-- Gene Kim, George Spafford, Kevin Behr - The Phoenix Project _ A Novel about IT, DevOps, and Helping Your Business Win-IT Revolution Press (2015).pdf
-- Getting Started with tmux.pdf
-- Infrastructure as Code (IAC) Cookbook.pdf
-- Learn NodeJS in 1 Day Comple te NodeJS Guide with Examples.pdf
-- Learning Linux Shell Scripting.pdf
-- Learning Shell Scripting with Zsh.pdf
-- Learning Windows Server Containers.pdf
-- Mastering CoreOS.pdf
-- Mastering Node.pdf
-- Mastering Wireshark.pdf
-- Mesos in Action.pdf
-- Nmap Essentials.pdf
-- output.doc
-- Puppet for Containerization.pdf
-- tmux Taster.pdf
-- Unix Power Tools.pdf
-- Vagrant Virtual Development Environment Cookbook.pdf
+- Command Line Kung Fu`.epub`
+- Containerization with Ansible 2`.epub`
+- Essential Skills for Hackers - Kevin Cardwell`.epub`
+- Infrastructure as Code (IAC) Cookbook`.epub`
+- Build Your Own PaaS with Docker`.pdf`
+- CoreOS Essentials`.pdf`
+- CoreOS in Action - Running Applications on Container Linux`.pdf`
+- [Deploying Rails with Docker, Kubernetes and ECS`.pdf`](https://github.com/nnbaocuong99/Book-Collections/blob/main/Deploying%20Rails%20with%20Docker%2C%20Kubernetes%20and%20ECS.pdf)
+- Designing and Implementing Linux Firewalls and QoS using netfilter, iproute2, NAT and l7-filter`.pdf`
+- Gene Kim, George Spafford, Kevin Behr - The Phoenix Project _ A Novel about IT, DevOps, and Helping Your Business Win-IT Revolution Press (2015)`.pdf`
+- Getting Started with tmux`.pdf`
+- Infrastructure as Code (IAC) Cookbook`.pdf`
+- Learn NodeJS in 1 Day Comple te NodeJS Guide with Examples`.pdf`
+- Learning Linux Shell Scripting`.pdf`
+- Learning Shell Scripting with Zsh`.pdf`
+- [Learning Windows Server Containers`.pdf`](https://github.com/nnbaocuong99/Book-Collections/blob/main/Learning%20Windows%20Server%20Containers.pdf)
+- Mastering CoreOS`.pdf`
+- Mastering Node`.pdf`
+- Mastering Wireshark`.pdf`
+- Mesos in Action`.pdf`
+- Nmap Essentials`.pdf`
+- Puppet for Containerization`.pdf`
+- tmux Taster`.pdf`
+- Unix Power Tools`.pdf`
+- Vagrant Virtual Development Environment Cookbook`.pdf`
    
            
            
