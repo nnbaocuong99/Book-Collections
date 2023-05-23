@@ -1,4 +1,4 @@
-###### First of all, A compilation of information from numerous sources. I'm gonna to list several books that are especially suggested for beginners. The title of the book you're looking for may be listed in the following table of contents.
+###### A compilation of information from numerous sources. I'm gonna to list several books that are especially suggested for beginners. The title of the book you're looking for may be listed in the following table of contents.
 
 <br>
 
