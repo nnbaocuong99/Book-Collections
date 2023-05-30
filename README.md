@@ -7,6 +7,8 @@
 - Effective DevOps with AWS`.azw3`
 - Implementing DevOps on AWS`.pdf`
 
+<br>
+
 ### 2. DevOps
 - (For Dummies) Emily Freeman - DevOps For Dummies-Wiley (2019)`.pdf`
 - A Practical Guide to Continuous Delivery`.epub`
@@ -38,8 +40,9 @@
 - The DevOps Handbook - How to Create World-Class Agility, Reliability, and Security in Technology Organizations`.epub`
 - The devops handbook - PDF Room`.pdf`
     
+<br>
 
-#### 3. Docker
+### 3. Docker
 - Containerized Docker Application Lifecycle with Microsoft Platform and Tools`.pdf`
 - Deployment with Docker`.epub`
 - Developing with Docker`.pdf`
@@ -84,14 +87,20 @@
 - The Docker Book - James Turnbull - v17.03.0`.pdf`
 - Troubleshooting Docker`.epub`
 - What You Need to Know about Docker`.pdf`
+
+<br>
      
 ### 3. GitOps
 - Getting-GitOps-eBook-red-hat-developer`.pdf`
 - Learning DevOps - Continuously Deliver Better Software`.pdf`    
 
+<br>
+
 ### 4. Jenkins
 - Jenkins Essentials`.pdf`
 - Learning Continuous Integration with Jenkins`.pdf`
+
+<br>
  
 ### 5. k8s
 - Getting Started with Kubernetes - Second Edition`.pdf`
@@ -107,6 +116,8 @@
 - [kubernetes-in-action-2nbsped_compress`.pdf`](https://github.com/nnbaocuong99/Book-Collections/blob/main/k8s/kubernetes-in-action-2nbsped_compress.pdf)
 - Learn Docker - Fundamentals of Docker 18.x  - 2018`.pdf`
 - Mastering Kubernetes`.pdf`
+
+<br>
  
 ### 6. Linux
 - Beginning the Linux Command Line`.pdf`
@@ -136,6 +147,8 @@
 - UNIX and Linux System Administration Handbook - Fifth Edition`.epub`
 - Working with Linux - Quick Hacks for the Command Line`.pdf`
 - Your UNIX Linux - The Ultimate Guide - Third Edition`.pdf`
+
+<br>
      
 ### 7. Microservices
 - Advanced Microservices`.pdf`
@@ -147,6 +160,8 @@
 - Microservices From Day One - Build Robust and Scalable Software from the Start`.pdf`
 - Sam Newman - Building Microservices_ Designing Fine-Grained Systems-O'Reilly Media (2015)`.pdf`
 - Scala Microservices`.azw3`
+
+<br>
      
 ### 8. Monitoring
 - Automate it! - Recipes to upskill your business`.pdf`
@@ -158,6 +173,8 @@
 - [Microservices with Docker on Microsoft Azure`.epub`](https://github.com/nnbaocuong99/Book-Collections/blob/main/Monitoring/Microservices%20with%20Docker%20on%20Microsoft%20Azure.epub)
 - Practical Microservices`.epub`
 - tmux 2 - Productive Mouse-Free Development`.epub`
+
+<br>
    
 ### 9. Nginx
 - [Complete_NGINX_Cookbook`.pdf`](https://github.com/nnbaocuong99/Book-Collections/blob/main/Nginx/Complete_NGINX_Cookbook.pdf)
@@ -169,6 +186,8 @@
 - ...
 - ...
 - ...
+
+<br>
 
 ### 10. PoweShell, Bash
 - Advanced Bash-Scripting Guide`.pdf`
@@ -182,13 +201,16 @@
 - Windows PowerShell Cookbook`.pdf`
 - [Windows PowerShell in Action`.pdf`](https://github.com/nnbaocuong99/Book-Collections/blob/main/PoweShell%2C%20Bash/Windows%20PowerShell%20in%20Action.pdf)
 - Windows PowerShell Pocket Reference`.pdf`
+
+<br>
      
 ### 11. Restful, Wireshark
 - REST API Design Rulebook`.pdf`
 - [RESTFUL Web Services`.pdf`](https://github.com/nnbaocuong99/Book-Collections/blob/main/Restful%2C%20Wireshark/REST%20API%20Design%20Rulebook.pdf)
 - Wireshark Essentials`.pdf`
 - Wireshark Network Security`.pdf`
-
+ 
+<br>
 
 ### 12. Others
 - Command Line Kung Fu`.epub`
